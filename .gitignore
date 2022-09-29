@@ -2,3 +2,6 @@
 /.idea/inspectionProfiles/
 /.idea/auto_localize.iml
 /.idea/
+
+.DS_Store
+__pycache__/
